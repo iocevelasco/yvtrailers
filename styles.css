@@ -1,0 +1,16 @@
+* {
+  font-family: 'Fresca', sans-serif;
+}
+
+.img{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  height: 100vh;
+}
+
+img{
+  width: auto;
+  height: 400px;
+} 
